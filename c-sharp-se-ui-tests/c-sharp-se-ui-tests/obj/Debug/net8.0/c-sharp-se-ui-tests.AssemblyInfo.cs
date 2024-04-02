@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c-sharp-se-ui-tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e4fbacdd7dff42dd8a453fd842811dacff520b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0ca60aab8cf41c82c0d1456038a115eae957d5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("c-sharp-se-ui-tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c-sharp-se-ui-tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
